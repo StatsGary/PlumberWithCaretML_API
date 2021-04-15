@@ -30,6 +30,6 @@ The full list is in the [Plumber](https://www.rplumber.io/articles/hosting.html)
 #Credits
 If this is utilised in any of your apps, please make sure I get some credit. 
 
-Follow me on Twitter [@StatsGary]() or have a look on [my web/blog site](https://hutsons-hacks.info/). 
+Follow me on Twitter [@StatsGary](https://twitter.com/StatsGary) or have a look on [my web/blog site](https://hutsons-hacks.info/). 
 
 
