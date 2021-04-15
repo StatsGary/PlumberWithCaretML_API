@@ -1,5 +1,5 @@
 # Deploying a CARET Machine Learning model as an API with Plumber
-<img src="Plumber.png" align="right>
+<img src="Plumber.png" text-align="right>
 I have deployed a number of machine learning models, mostly on client sites, in the cloud or in SQL server. However, I thought it would be fun to create this in an API. The supporting YouTube tutorial is available here:.
 
 ## Training a supervised machine learning model
