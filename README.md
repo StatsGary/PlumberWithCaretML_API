@@ -1,6 +1,6 @@
 # Deploying a CARET Machine Learning model as an API with Plumber
 <img src="Images/Plumber.png" align="right">
-I have deployed a number of machine learning models, mostly on client sites, in the cloud or in SQL server. However, I thought it would be fun to create this in an API. The supporting YouTube tutorial is available here:.
+I have deployed a number of machine learning models, mostly on client sites, in the cloud or in SQL server. However, I thought it would be fun to create this in an API. The supporting [YouTube tutorial](https://www.youtube.com/watch?v=WMCkV_J5a0s) is available here:.
 
 ## Training a supervised machine learning model
 In this section I will use a number of packages to train a R model. The packages include:
