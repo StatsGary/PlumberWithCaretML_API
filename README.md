@@ -19,4 +19,9 @@ To deploy your API you could use a number of different methods:
 - Upload to Digital Ocean
 - Deploy in your web servers
 
+The full list is in the [Plumber](https://www.rplumber.io/articles/hosting.html) official hosting guide.
+
+#Credits
+If this is utilised in any of your apps, please make sure I get some credit :)
+
 
