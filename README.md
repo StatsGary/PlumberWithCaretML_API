@@ -5,10 +5,10 @@ I have deployed a number of machine learning models, mostly on client sites, in 
 ## Training a supervised machine learning model
 In this section I will use a number of packages to train a R model. The packages include:
 - [Caret](https://hutsons-hacks.info/advanced-modelling-in-r-with-caret-a-focus-on-supervised-machine-learning) to train a bagged tree - ensemble model
-- NHSRDatasets - this is a package created by the NHS-R community. We will be using the stranded patient data example for this package
-- ConfusionTableR - this is a package to flatten outputs of the Caret's confusion matrix to be used to output to spreadsheets, or store in databases
+- [NHSRDatasets](https://cran.r-project.org/web/packages/NHSRdatasets/vignettes/stranded_model.html) - this is a package created by the NHS-R community. We will be using the stranded patient data example for this package
+- [ConfusionTableR](https://github.com/StatsGary/ConfusionTableR) - this is a package to flatten outputs of the Caret's confusion matrix to be used to output to spreadsheets, or store in databases
 - A number of other R normal files
-
+https://github.com/StatsGary/ConfusionTableR
 ## Creating the Plumber files
 This has two main functions - a GET request which shows if the website is running and a POST request which is used to pass JSON data from the API, to the model and then the predictions are returned to the API.
 
