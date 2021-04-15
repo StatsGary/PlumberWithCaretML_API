@@ -12,6 +12,12 @@ https://github.com/StatsGary/ConfusionTableR
 ## Creating the Plumber files
 This has two main functions - a GET request which shows if the website is running and a POST request which is used to pass JSON data from the API, to the model and then the predictions are returned to the API.
 
+## Contained in this repository:
+
+- [ML Model Training app]()
+- [Plumber App]()
+- [YAML file for Swagger]()
+
 ## Hosting options
 To deploy your API you could use a number of different methods:
 - Creation of a Dockerfile
