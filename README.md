@@ -16,7 +16,7 @@ This has two main functions - a GET request which shows if the website is runnin
 
 - [ML Model Training app](https://github.com/StatsGary/PlumberWithCaretML_API/blob/main/MLModelTrainingScript.R)
 - [Plumber App](https://github.com/StatsGary/PlumberWithCaretML_API/blob/main/StrandedPlumberAPI.r)
-- [YAML file for Swagger]()
+- [YAML file for Swagger](https://github.com/StatsGary/PlumberWithCaretML_API/blob/main/openapi.yaml)
 
 ## Hosting options
 To deploy your API you could use a number of different methods:
@@ -28,6 +28,8 @@ To deploy your API you could use a number of different methods:
 The full list is in the [Plumber](https://www.rplumber.io/articles/hosting.html) official hosting guide.
 
 #Credits
-If this is utilised in any of your apps, please make sure I get some credit :)
+If this is utilised in any of your apps, please make sure I get some credit. 
+
+Follow me on Twitter [@StatsGary]() or have a look on [my web/blog site](https://hutsons-hacks.info/). 
 
 
