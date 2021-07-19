@@ -51,7 +51,7 @@ upsample_ratio <- class_bal_table[2] / sum(class_bal_table)
 #------------------------------------------------------------
 
 tb_model <- caret::train(stranded_class ~ .,
-                         data = stranded,
+                         data = train_data,
                          method = 'treebag',
                          verbose = TRUE)
 
